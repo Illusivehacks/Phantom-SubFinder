@@ -107,7 +107,7 @@ def phantom_auto_setup():
     
     print(f"{Colors.PURPLE}╔══════════════════════════════════════════════════════════════╗{Colors.END}")
     print(f"{Colors.PURPLE}║{Colors.CYAN}          PHANTOM SUBFINDER V2.0 - AUTO SETUP            {Colors.PURPLE}{Colors.END}")
-    print(f"{Colors.PURPLE}║{Colors.GREEN}                    By Illusivehacks & Wilshewz                     {Colors.PURPLE}{Colors.END}")
+    print(f"{Colors.PURPLE}║{Colors.GREEN}                    By Illusivehacks & Wilshwez                     {Colors.PURPLE}{Colors.END}")
     print(f"{Colors.PURPLE}╚══════════════════════════════════════════════════════════════╝{Colors.END}\n")
     
     # Check Python version
@@ -363,7 +363,7 @@ class EnhancedPhantomSubfinder:
 ║         █████▀ ▀███▀ ██▄█▀ ██     ██ ██ ▀██ ████▀ ██▄▄▄ ██ ██              
 ║                                                                              
 ║{Colors.GREEN}              👻 PHANTOM SUBFINDER - RECON 👻{Colors.PURPLE}                    
-║{Colors.CYAN}                    By Illusivehacks & Wilshewz{Colors.PURPLE}                                          
+║{Colors.CYAN}                    By Illusivehacks & Wilshwez{Colors.PURPLE}                                          
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║{Colors.YELLOW}  Multi-Threaded | Cloud Enum | Port Scan | Tech Detect | Stealth{Colors.PURPLE}    
 ╚══════════════════════════════════════════════════════════════════════════════╝{Colors.END}
@@ -1566,4 +1566,5 @@ def main():
         phantom.run()
 
 if __name__ == "__main__":
+
     main()
