@@ -214,6 +214,29 @@ phantom-subfinder/
 ```
 
 ---
+---
+
+## 🖼️ Screenshots
+
+> 📸 Add your screenshots to an `assets/` folder in your repo and update the image paths below.
+
+**Tool Banner & Interactive Shell**
+
+![Phantom Banner](assets/screenshot1.png)
+
+---
+
+**Subdomain Hunt in Action**
+
+![Hunt Results](assets/screenshot2.png)
+
+---
+
+**Full Recon HTML Report Output**
+
+![HTML Report](assets/screenshot3.png)
+
+---
 
 ## ⚖️ Legal & Ethical Use
 
