@@ -1,6 +1,6 @@
 # 👻 Phantom Subfinder V2.0
 ### Ultimate Subdomain Reconnaissance Tool
-**By Illusivehacks & Wilshewz**
+**By Illusivehacks & Wilshwez**
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue?style=for-the-badge&logo=python)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey?style=for-the-badge)
